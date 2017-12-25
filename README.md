@@ -4,6 +4,7 @@ Basic Python wrapper for Amsterdam Airport Schiphol's flight data API, which ena
 - Kindly make sure to have pyopenssl, ndg-httpsclient and pyasn1 installed in order to interact with the API
 - Insert your API-id and API-key in the py.file, [which can be requested here](https://developer.schiphol.nl/)
 
+
 Example of the resulting dataframe:
 
 ```
